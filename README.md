@@ -10,7 +10,7 @@ A simple planet generation plugin for unreal 5
 
 ---
 ### USAGE
-- Place a `BP_PlanetActor` in your map (it may hardlock while it loads -- turn off auto update in the generation parameters to allevite this for every little update)
+- Place a `BP_PlanetActor` in your map (it may hardlock for 30 sec to 2 min while it loads -- turn off auto update in the generation parameters to allevite this for every little update)
 - Place a `BP_Star_Basic` in the map and adjust to a comfortable distance, tweak `intensity` as neeeded
 - Place the player start at the planet origin
 - Press play!
